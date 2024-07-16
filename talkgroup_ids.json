@@ -1,0 +1,3659 @@
+{
+  "results": [
+    {
+      "tgid": 202,
+      "callsign": "National Greece",
+      "id": 202
+    },
+    {
+      "tgid": 2021,
+      "callsign": "Central Greece",
+      "id": 2021
+    },
+    {
+      "tgid": 20210,
+      "callsign": "Hellenic Chat",
+      "id": 20210
+    },
+    {
+      "tgid": 20218,
+      "callsign": "ASL Node 518330",
+      "id": 20218
+    },
+    {
+      "tgid": 20217,
+      "callsign": "YSF20217",
+      "id": 20217
+    },
+    {
+      "tgid": 2022,
+      "callsign": "Central & West Macedonia",
+      "id": 2022
+    },
+    {
+      "tgid": 20222,
+      "callsign": "Hellas-FRN  Ham4",
+      "id": 20222
+    },
+    {
+      "tgid": 20221,
+      "callsign": "Central & West Macedonia 1",
+      "id": 20221
+    },
+    {
+      "tgid": 2023,
+      "callsign": "Peloponnese",
+      "id": 2023
+    },
+    {
+      "tgid": 2024,
+      "callsign": "Thessaly",
+      "id": 2024
+    },
+    {
+      "tgid": 2025,
+      "callsign": "Dodecanese Islands",
+      "id": 2025
+    },
+    {
+      "tgid": 2026,
+      "callsign": "Epirus",
+      "id": 2026
+    },
+    {
+      "tgid": 2027,
+      "callsign": "Thrace and East Macedonia",
+      "id": 2027
+    },
+    {
+      "tgid": 2028,
+      "callsign": "All Greek islands",
+      "id": 2028
+    },
+    {
+      "tgid": 2029,
+      "callsign": "Crete",
+      "id": 2029
+    },
+    {
+      "tgid": 204,
+      "callsign": "Nederlands",
+      "id": 204
+    },
+    {
+      "tgid": 206,
+      "callsign": "Belgium-National",
+      "id": 206
+    },
+    {
+      "tgid": 20601,
+      "callsign": "Belgium-Namur",
+      "id": 20601
+    },
+    {
+      "tgid": 20602,
+      "callsign": "Belgium-Luxembourg",
+      "id": 20602
+    },
+    {
+      "tgid": 20603,
+      "callsign": "Belgium-Hainaut",
+      "id": 20603
+    },
+    {
+      "tgid": 20604,
+      "callsign": "Belgium-Brussels",
+      "id": 20604
+    },
+    {
+      "tgid": 20605,
+      "callsign": "Belgium-Brabant Wallon",
+      "id": 20605
+    },
+    {
+      "tgid": 20606,
+      "callsign": "Belgium-Vlaams Brabant",
+      "id": 20606
+    },
+    {
+      "tgid": 20607,
+      "callsign": "Belgium-Limburg",
+      "id": 20607
+    },
+    {
+      "tgid": 20608,
+      "callsign": "Belgium-Antwerpen",
+      "id": 20608
+    },
+    {
+      "tgid": 20609,
+      "callsign": "Belgium-Oost-Vlaanderen",
+      "id": 20609
+    },
+    {
+      "tgid": 20600,
+      "callsign": "Belgium-Liege",
+      "id": 20600
+    },
+    {
+      "tgid": 206000,
+      "callsign": "Belgium-Multiprotocol",
+      "id": 206000
+    },
+    {
+      "tgid": 2061,
+      "callsign": "Belgium-North",
+      "id": 2061
+    },
+    {
+      "tgid": 20610,
+      "callsign": "Belgium-West-Vlaanderen",
+      "id": 20610
+    },
+    {
+      "tgid": 20612,
+      "callsign": "Belgium-Waasland",
+      "id": 20612
+    },
+    {
+      "tgid": 206112,
+      "callsign": "Belgium-Emergency",
+      "id": 206112
+    },
+    {
+      "tgid": 20613,
+      "callsign": "Belgium-XLX Pictures",
+      "id": 20613
+    },
+    {
+      "tgid": 20618,
+      "callsign": "Belgium-ASL50941 / Echolink ON0LG",
+      "id": 20618
+    },
+    {
+      "tgid": 20617,
+      "callsign": "Belgium-Euregio",
+      "id": 20617
+    },
+    {
+      "tgid": 2062,
+      "callsign": "Belgium-South",
+      "id": 2062
+    },
+    {
+      "tgid": 2063,
+      "callsign": "Belgium-East",
+      "id": 2063
+    },
+    {
+      "tgid": 2064,
+      "callsign": "Belgium-On Demand",
+      "id": 2064
+    },
+    {
+      "tgid": 2065,
+      "callsign": "Belgium-On Demand",
+      "id": 2065
+    },
+    {
+      "tgid": 2066,
+      "callsign": "Belgium-On Demand",
+      "id": 2066
+    },
+    {
+      "tgid": 2067,
+      "callsign": "Belgium-On Demand",
+      "id": 2067
+    },
+    {
+      "tgid": 2068,
+      "callsign": "Belgium-On Demand",
+      "id": 2068
+    },
+    {
+      "tgid": 2069,
+      "callsign": "Belgium-On Demand",
+      "id": 2069
+    },
+    {
+      "tgid": 20698,
+      "callsign": "Belgium-Francophonie",
+      "id": 20698
+    },
+    {
+      "tgid": 20690,
+      "callsign": "ADN ChatGPT IA",
+      "id": 20690
+    },
+    {
+      "tgid": 208,
+      "callsign": "France DMR+",
+      "id": 208
+    },
+    {
+      "tgid": 2080,
+      "callsign": "France Urgence",
+      "id": 2080
+    },
+    {
+      "tgid": 20800,
+      "callsign": "YSF France",
+      "id": 20800
+    },
+    {
+      "tgid": 208073,
+      "callsign": "Salon des Radio-Club",
+      "id": 208073
+    },
+    {
+      "tgid": 2081,
+      "callsign": "France IDF",
+      "id": 2081
+    },
+    {
+      "tgid": 208112,
+      "callsign": "Urgence",
+      "id": 208112
+    },
+    {
+      "tgid": 2082,
+      "callsign": "France Sud-Est",
+      "id": 2082
+    },
+    {
+      "tgid": 20820,
+      "callsign": "Corse",
+      "id": 20820
+    },
+    {
+      "tgid": 2083,
+      "callsign": "France Nord-Est",
+      "id": 2083
+    },
+    {
+      "tgid": 20838,
+      "callsign": "Isère",
+      "id": 20838
+    },
+    {
+      "tgid": 2084,
+      "callsign": "France Est",
+      "id": 2084
+    },
+    {
+      "tgid": 20844,
+      "callsign": "Loire-Atlanique",
+      "id": 20844
+    },
+    {
+      "tgid": 2085,
+      "callsign": "France Sud-Ouest",
+      "id": 2085
+    },
+    {
+      "tgid": 20859,
+      "callsign": "YSF-LinuxFR Gateway",
+      "id": 20859
+    },
+    {
+      "tgid": 2086,
+      "callsign": "France",
+      "id": 2086
+    },
+    {
+      "tgid": 20862,
+      "callsign": "Salon Nord",
+      "id": 20862
+    },
+    {
+      "tgid": 20869,
+      "callsign": "Lyon Metropole",
+      "id": 20869
+    },
+    {
+      "tgid": 2087,
+      "callsign": "Salon Technique",
+      "id": 2087
+    },
+    {
+      "tgid": 20872,
+      "callsign": "Pays de la Loire",
+      "id": 20872
+    },
+    {
+      "tgid": 20878,
+      "callsign": "Yvelines",
+      "id": 20878
+    },
+    {
+      "tgid": 20887,
+      "callsign": "Limousin",
+      "id": 20887
+    },
+    {
+      "tgid": 2088,
+      "callsign": "France",
+      "id": 2088
+    },
+    {
+      "tgid": 2089,
+      "callsign": "French Overseas Islands",
+      "id": 2089
+    },
+    {
+      "tgid": 20898,
+      "callsign": "Reseau ARA Auv. Rhone-Alpes",
+      "id": 20898
+    },
+    {
+      "tgid": 20899,
+      "callsign": "France Multi-Protocoles",
+      "id": 20899
+    },
+    {
+      "tgid": 208933,
+      "callsign": "DSTAR France",
+      "id": 208933
+    },
+    {
+      "tgid": 208971,
+      "callsign": "Guadeloupe",
+      "id": 208971
+    },
+    {
+      "tgid": 212,
+      "callsign": "Monaco ",
+      "id": 212
+    },
+    {
+      "tgid": 213,
+      "callsign": "Andorra ",
+      "id": 213
+    },
+    {
+      "tgid": 214,
+      "callsign": "National Spain",
+      "id": 214
+    },
+    {
+      "tgid": 214091,
+      "callsign": "ARSA-CNP",
+      "id": 214091
+    },
+    {
+      "tgid": 2141,
+      "callsign": "ZONE 1 EA",
+      "id": 2141
+    },
+    {
+      "tgid": 21411,
+      "callsign": "URE SEC.COMARCAL  S.FERNANDO CADIZ ",
+      "id": 21411
+    },
+    {
+      "tgid": 214112,
+      "callsign": "EMERGENCY",
+      "id": 214112
+    },
+    {
+      "tgid": 2142,
+      "callsign": "ZONE 2 EA",
+      "id": 2142
+    },
+    {
+      "tgid": 21428,
+      "callsign": "CC.AA. MADRID",
+      "id": 21428
+    },
+    {
+      "tgid": 2143,
+      "callsign": "ZONE 3 EA",
+      "id": 2143
+    },
+    {
+      "tgid": 2144,
+      "callsign": "ZONE 4 EA",
+      "id": 2144
+    },
+    {
+      "tgid": 2145,
+      "callsign": "ZONE 5 EA",
+      "id": 2145
+    },
+    {
+      "tgid": 2146,
+      "callsign": "ZONE 6 EA",
+      "id": 2146
+    },
+    {
+      "tgid": 21460,
+      "callsign": "CERT-SPAIN",
+      "id": 21460
+    },
+    {
+      "tgid": 21463,
+      "callsign": "GaliciaON",
+      "id": 21463
+    },
+    {
+      "tgid": 21465,
+      "callsign": "ADER",
+      "id": 21465
+    },
+    {
+      "tgid": 21464,
+      "callsign": "Radiolinks",
+      "id": 21464
+    },
+    {
+      "tgid": 21462,
+      "callsign": "Radioenlaces HAM",
+      "id": 21462
+    },
+    {
+      "tgid": 2147,
+      "callsign": "ZONE 7 EA",
+      "id": 2147
+    },
+    {
+      "tgid": 21470,
+      "callsign": "RADIO MONTAÑA PIRINEOS",
+      "id": 21470
+    },
+    {
+      "tgid": 21471,
+      "callsign": "CAMINO DE SANTIAGO",
+      "id": 21471
+    },
+    {
+      "tgid": 21475,
+      "callsign": "NAVARLIK RADIO EMERGENCIAS NAVARRA",
+      "id": 21475
+    },
+    {
+      "tgid": 21477,
+      "callsign": "RADIOENLACES CHARLI SIERRA 26",
+      "id": 21477
+    },
+    {
+      "tgid": 21472,
+      "callsign": "LA CAMPA",
+      "id": 21472
+    },
+    {
+      "tgid": 2148,
+      "callsign": "ZONE 8 EA",
+      "id": 2148
+    },
+    {
+      "tgid": 2149,
+      "callsign": "ZONE 9 EA",
+      "id": 2149
+    },
+    {
+      "tgid": 21490,
+      "callsign": "ChatGPT ADN Systems EA",
+      "id": 21490
+    },
+    {
+      "tgid": 21499,
+      "callsign": "Radioaficionados ARAGON",
+      "id": 21499
+    },
+    {
+      "tgid": 216,
+      "callsign": "Hungary ",
+      "id": 216
+    },
+    {
+      "tgid": 218,
+      "callsign": "Bosnia and Herzegovina ",
+      "id": 218
+    },
+    {
+      "tgid": 219,
+      "callsign": "Croatia ",
+      "id": 219
+    },
+    {
+      "tgid": 220,
+      "callsign": "Serbia ",
+      "id": 220
+    },
+    {
+      "tgid": 220036,
+      "callsign": "Kraljevo",
+      "id": 220036
+    },
+    {
+      "tgid": 220027,
+      "callsign": "Serbia 027",
+      "id": 220027
+    },
+    {
+      "tgid": 220011,
+      "callsign": "Belgrade",
+      "id": 220011
+    },
+    {
+      "tgid": 2200073,
+      "callsign": "73",
+      "id": 2200073
+    },
+    {
+      "tgid": 220088,
+      "callsign": "Chat",
+      "id": 220088
+    },
+    {
+      "tgid": 22027065,
+      "callsign": "CB-Talk",
+      "id": 22027065
+    },
+    {
+      "tgid": 222,
+      "callsign": "Italy",
+      "id": 222
+    },
+    {
+      "tgid": 22201,
+      "callsign": "Lazio  xlx7118 I",
+      "id": 22201
+    },
+    {
+      "tgid": 22202,
+      "callsign": "Sardegna",
+      "id": 22202
+    },
+    {
+      "tgid": 22203,
+      "callsign": "Umbria",
+      "id": 22203
+    },
+    {
+      "tgid": 22211,
+      "callsign": "Liguria",
+      "id": 22211
+    },
+    {
+      "tgid": 22212,
+      "callsign": "Piemonte",
+      "id": 22212
+    },
+    {
+      "tgid": 22213,
+      "callsign": "Valle D'Aosta",
+      "id": 22213
+    },
+    {
+      "tgid": 22214,
+      "callsign": "Multi Protocollo",
+      "id": 22214
+    },
+    {
+      "tgid": 22215,
+      "callsign": " Multi Protocollo",
+      "id": 22215
+    },
+    {
+      "tgid": 22216,
+      "callsign": "Multi Protocollo",
+      "id": 22216
+    },
+    {
+      "tgid": 22217,
+      "callsign": "Multi Protocollo",
+      "id": 22217
+    },
+    {
+      "tgid": 22218,
+      "callsign": "ASL Node 547491",
+      "id": 22218
+    },
+    {
+      "tgid": 222112,
+      "callsign": "Cota Brescia",
+      "id": 222112
+    },
+    {
+      "tgid": 22220,
+      "callsign": "ItalyNet Conference",
+      "id": 22220
+    },
+    {
+      "tgid": 22221,
+      "callsign": "Lombardia",
+      "id": 22221
+    },
+    {
+      "tgid": 22222,
+      "callsign": "GardaLake",
+      "id": 22222
+    },
+    {
+      "tgid": 22231,
+      "callsign": "Friuli Venezia Giulia XLX718-G",
+      "id": 22231
+    },
+    {
+      "tgid": 22232,
+      "callsign": "Trentino-Alto Adige",
+      "id": 22232
+    },
+    {
+      "tgid": 22233,
+      "callsign": "Veneto",
+      "id": 22233
+    },
+    {
+      "tgid": 22235,
+      "callsign": "TG Roseto YSF#26765 TGIF22235  ",
+      "id": 22235
+    },
+    {
+      "tgid": 22241,
+      "callsign": "Emilia Romagna  XLX718-C TGIF 22241",
+      "id": 22241
+    },
+    {
+      "tgid": 22251,
+      "callsign": "Toscana",
+      "id": 22251
+    },
+    {
+      "tgid": 22261,
+      "callsign": "Abruzzo",
+      "id": 22261
+    },
+    {
+      "tgid": 22262,
+      "callsign": "Marche",
+      "id": 22262
+    },
+    {
+      "tgid": 22266,
+      "callsign": "Abruzzo Radio ",
+      "id": 22266
+    },
+    {
+      "tgid": 22271,
+      "callsign": "Puglia  XLX718-H",
+      "id": 22271
+    },
+    {
+      "tgid": 22276,
+      "callsign": "TRANI Conference ASL556990 Echolink I7IGX R XLX718E TGIF 76125  HoIP25003",
+      "id": 22276
+    },
+    {
+      "tgid": 22273,
+      "callsign": "IT C4FM BAT",
+      "id": 22273
+    },
+    {
+      "tgid": 22281,
+      "callsign": "Basilicata",
+      "id": 22281
+    },
+    {
+      "tgid": 22282,
+      "callsign": "Calabria",
+      "id": 22282
+    },
+    {
+      "tgid": 22283,
+      "callsign": "Campania",
+      "id": 22283
+    },
+    {
+      "tgid": 22284,
+      "callsign": "Molise",
+      "id": 22284
+    },
+    {
+      "tgid": 22291,
+      "callsign": "Sicilia  xlx- 718 -J",
+      "id": 22291
+    },
+    {
+      "tgid": 222995,
+      "callsign": "Multi Protocollo IT-Multi_Net",
+      "id": 222995
+    },
+    {
+      "tgid": 222999,
+      "callsign": "D-APRS  ADN SYSTEMS ITALIA",
+      "id": 222999
+    },
+    {
+      "tgid": 226,
+      "callsign": "Romania",
+      "id": 226
+    },
+    {
+      "tgid": 2262,
+      "callsign": "Romania District YO2",
+      "id": 2262
+    },
+    {
+      "tgid": 2263,
+      "callsign": "Romania District YO3",
+      "id": 2263
+    },
+    {
+      "tgid": 2264,
+      "callsign": "Romania District YO4",
+      "id": 2264
+    },
+    {
+      "tgid": 2265,
+      "callsign": "Romania District YO5",
+      "id": 2265
+    },
+    {
+      "tgid": 2266,
+      "callsign": "Romania District YO6",
+      "id": 2266
+    },
+    {
+      "tgid": 2267,
+      "callsign": "Romania District YO7",
+      "id": 2267
+    },
+    {
+      "tgid": 2268,
+      "callsign": "Romania District YO8",
+      "id": 2268
+    },
+    {
+      "tgid": 228,
+      "callsign": "Switzerland",
+      "id": 228
+    },
+    {
+      "tgid": 2280,
+      "callsign": "Swiss German",
+      "id": 2280
+    },
+    {
+      "tgid": 22801,
+      "callsign": "UA 1",
+      "id": 22801
+    },
+    {
+      "tgid": 22802,
+      "callsign": "UA 2",
+      "id": 22802
+    },
+    {
+      "tgid": 22803,
+      "callsign": "UA 3",
+      "id": 22803
+    },
+    {
+      "tgid": 22804,
+      "callsign": "UA 4",
+      "id": 22804
+    },
+    {
+      "tgid": 2281,
+      "callsign": "Suisse Romande",
+      "id": 2281
+    },
+    {
+      "tgid": 22810,
+      "callsign": "HB9-BM-WIRESX (Node 27628)",
+      "id": 22810
+    },
+    {
+      "tgid": 22811,
+      "callsign": "VAUD WIRESX HB9VD-ROOM (Node 27095) YSF",
+      "id": 22811
+    },
+    {
+      "tgid": 22812,
+      "callsign": "Geneve",
+      "id": 22812
+    },
+    {
+      "tgid": 22813,
+      "callsign": "Alpes Vaudoises",
+      "id": 22813
+    },
+    {
+      "tgid": 22814,
+      "callsign": "Alpes Valaisannes",
+      "id": 22814
+    },
+    {
+      "tgid": 22815,
+      "callsign": "Neuchatel",
+      "id": 22815
+    },
+    {
+      "tgid": 22817,
+      "callsign": "Fribourg",
+      "id": 22817
+    },
+    {
+      "tgid": 228112,
+      "callsign": "EmComm Suisse (Emergency Communication)",
+      "id": 228112
+    },
+    {
+      "tgid": 2282,
+      "callsign": "Valais",
+      "id": 2282
+    },
+    {
+      "tgid": 22822,
+      "callsign": "XLX229 modulo D",
+      "id": 22822
+    },
+    {
+      "tgid": 22823,
+      "callsign": "XLX229 modulo G",
+      "id": 22823
+    },
+    {
+      "tgid": 22824,
+      "callsign": " AllStar 538450",
+      "id": 22824
+    },
+    {
+      "tgid": 22825,
+      "callsign": "Multiprotocollo CH WIRES-X (room 44156)und YSF  (room 47247",
+      "id": 22825
+    },
+    {
+      "tgid": 22826,
+      "callsign": "WIRESX HB9T (Node 47052)",
+      "id": 22826
+    },
+    {
+      "tgid": 2283,
+      "callsign": "Bern Capital",
+      "id": 2283
+    },
+    {
+      "tgid": 2284,
+      "callsign": "Basilea",
+      "id": 2284
+    },
+    {
+      "tgid": 2285,
+      "callsign": "Argovia / Swiss central",
+      "id": 2285
+    },
+    {
+      "tgid": 2286,
+      "callsign": "Ticino",
+      "id": 2286
+    },
+    {
+      "tgid": 2287,
+      "callsign": "Grigioni",
+      "id": 2287
+    },
+    {
+      "tgid": 22877,
+      "callsign": "Poschiavo",
+      "id": 22877
+    },
+    {
+      "tgid": 2288,
+      "callsign": "Zurich",
+      "id": 2288
+    },
+    {
+      "tgid": 2289,
+      "callsign": "Oriental Swiss",
+      "id": 2289
+    },
+    {
+      "tgid": 230,
+      "callsign": "Czech Republic ",
+      "id": 230
+    },
+    {
+      "tgid": 231,
+      "callsign": "Slovakia ",
+      "id": 231
+    },
+    {
+      "tgid": 232,
+      "callsign": "Austria",
+      "id": 232
+    },
+    {
+      "tgid": 23416,
+      "callsign": "400 Club",
+      "id": 23416
+    },
+    {
+      "tgid": 23427,
+      "callsign": "Dial-a-Node  UK AllStar 29177",
+      "id": 23427
+    },
+    {
+      "tgid": 23426,
+      "callsign": "FreeSTAR UK",
+      "id": 23426
+    },
+    {
+      "tgid": 23450,
+      "callsign": "Yorkshire Net UK",
+      "id": 23450
+    },
+    {
+      "tgid": 23490,
+      "callsign": "East Anglia",
+      "id": 23490
+    },
+    {
+      "tgid": 235,
+      "callsign": "235 Alive",
+      "id": 235
+    },
+    {
+      "tgid": 2350,
+      "callsign": "UK ChatterBOX",
+      "id": 2350
+    },
+    {
+      "tgid": 23500,
+      "callsign": "South West",
+      "id": 23500
+    },
+    {
+      "tgid": 23503,
+      "callsign": "Southern Fusion YSF Bridge",
+      "id": 23503
+    },
+    {
+      "tgid": 23501,
+      "callsign": "Football",
+      "id": 23501
+    },
+    {
+      "tgid": 2351,
+      "callsign": "CQ-UK - WiresX",
+      "id": 2351
+    },
+    {
+      "tgid": 23510,
+      "callsign": "South East",
+      "id": 23510
+    },
+    {
+      "tgid": 2352,
+      "callsign": "UK ChatterBOX 2",
+      "id": 2352
+    },
+    {
+      "tgid": 23520,
+      "callsign": "North West ",
+      "id": 23520
+    },
+    {
+      "tgid": 23521,
+      "callsign": "G6GMR RAYNET Events",
+      "id": 23521
+    },
+    {
+      "tgid": 23522,
+      "callsign": "G4RGM RAYNET Group",
+      "id": 23522
+    },
+    {
+      "tgid": 2353,
+      "callsign": "UK ChatterBOX 3",
+      "id": 2353
+    },
+    {
+      "tgid": 23530,
+      "callsign": "Yorkshire Link",
+      "id": 23530
+    },
+    {
+      "tgid": 23540,
+      "callsign": "N. Ireland Chat",
+      "id": 23540
+    },
+    {
+      "tgid": 2354,
+      "callsign": "UK ChatterBOX 4",
+      "id": 2354
+    },
+    {
+      "tgid": 2355,
+      "callsign": "Scotland",
+      "id": 2355
+    },
+    {
+      "tgid": 23550,
+      "callsign": "Scotland Chat",
+      "id": 23550
+    },
+    {
+      "tgid": 23557,
+      "callsign": "Scotland East",
+      "id": 23557
+    },
+    {
+      "tgid": 23558,
+      "callsign": "Scotland Highland & Islands",
+      "id": 23558
+    },
+    {
+      "tgid": 23559,
+      "callsign": "Scotland West",
+      "id": 23559
+    },
+    {
+      "tgid": 23560,
+      "callsign": "North East ",
+      "id": 23560
+    },
+    {
+      "tgid": 23566,
+      "callsign": "South Wales Digital",
+      "id": 23566
+    },
+    {
+      "tgid": 2357,
+      "callsign": "Isle of Man",
+      "id": 2357
+    },
+    {
+      "tgid": 23570,
+      "callsign": "Wales Chat ",
+      "id": 23570
+    },
+    {
+      "tgid": 2358,
+      "callsign": "Digital England",
+      "id": 2358
+    },
+    {
+      "tgid": 23580,
+      "callsign": "West Midlands",
+      "id": 23580
+    },
+    {
+      "tgid": 2359,
+      "callsign": "Southern Fusion",
+      "id": 2359
+    },
+    {
+      "tgid": 23590,
+      "callsign": "XLX248 E East Midlands",
+      "id": 23590
+    },
+    {
+      "tgid": 23591,
+      "callsign": "Nottinghamshire Link",
+      "id": 23591
+    },
+    {
+      "tgid": 23592,
+      "callsign": "Retford Link",
+      "id": 23592
+    },
+    {
+      "tgid": 23599,
+      "callsign": "Lincolnshire Live",
+      "id": 23599
+    },
+    {
+      "tgid": 238,
+      "callsign": "Denmark",
+      "id": 238
+    },
+    {
+      "tgid": 240,
+      "callsign": "Sweden",
+      "id": 240
+    },
+    {
+      "tgid": 242,
+      "callsign": "Norway",
+      "id": 242
+    },
+    {
+      "tgid": 244,
+      "callsign": "Finland ",
+      "id": 244
+    },
+    {
+      "tgid": 246,
+      "callsign": "Lithuania ",
+      "id": 246
+    },
+    {
+      "tgid": 247,
+      "callsign": "Latvia ",
+      "id": 247
+    },
+    {
+      "tgid": 248,
+      "callsign": "Estonia ",
+      "id": 248
+    },
+    {
+      "tgid": 24804,
+      "callsign": "Ida-Viru county",
+      "id": 24804
+    },
+    {
+      "tgid": 248112,
+      "callsign": "Emergency ",
+      "id": 248112
+    },
+    {
+      "tgid": 24814,
+      "callsign": "Narva city",
+      "id": 24814
+    },
+    {
+      "tgid": 248991,
+      "callsign": "S.A.R. 1 Narva area ",
+      "id": 248991
+    },
+    {
+      "tgid": 248992,
+      "callsign": "S.A.R. 2 Narva area ",
+      "id": 248992
+    },
+    {
+      "tgid": 250,
+      "callsign": "Russian Federation ",
+      "id": 250
+    },
+    {
+      "tgid": 255,
+      "callsign": "Ukraine ",
+      "id": 255
+    },
+    {
+      "tgid": 257,
+      "callsign": "Belarus ",
+      "id": 257
+    },
+    {
+      "tgid": 259,
+      "callsign": "Moldova ",
+      "id": 259
+    },
+    {
+      "tgid": 260,
+      "callsign": "Poland",
+      "id": 260
+    },
+    {
+      "tgid": 26000,
+      "callsign": "Techniczna PL",
+      "id": 26000
+    },
+    {
+      "tgid": 2601,
+      "callsign": "Regional SP1",
+      "id": 2601
+    },
+    {
+      "tgid": 2602,
+      "callsign": "Regional SP2",
+      "id": 2602
+    },
+    {
+      "tgid": 2603,
+      "callsign": "Regional SP3",
+      "id": 2603
+    },
+    {
+      "tgid": 2604,
+      "callsign": "Regional SP4",
+      "id": 2604
+    },
+    {
+      "tgid": 26041,
+      "callsign": "Regional - Warminsko-Mazurskie",
+      "id": 26041
+    },
+    {
+      "tgid": 2605,
+      "callsign": "Regional SP5",
+      "id": 2605
+    },
+    {
+      "tgid": 26059,
+      "callsign": "YSF 00005 - Bridge - Kurpie",
+      "id": 26059
+    },
+    {
+      "tgid": 2606,
+      "callsign": "Regional SP6",
+      "id": 2606
+    },
+    {
+      "tgid": 2607,
+      "callsign": "Regional SP7",
+      "id": 2607
+    },
+    {
+      "tgid": 26078,
+      "callsign": "Regional - Kutno",
+      "id": 26078
+    },
+    {
+      "tgid": 26071,
+      "callsign": "Regional - Lodzkie",
+      "id": 26071
+    },
+    {
+      "tgid": 2608,
+      "callsign": "Regional SP8",
+      "id": 2608
+    },
+    {
+      "tgid": 2609,
+      "callsign": "Regional SP9",
+      "id": 2609
+    },
+    {
+      "tgid": 262,
+      "callsign": "Germany",
+      "id": 262
+    },
+    {
+      "tgid": 2620,
+      "callsign": "Sachsen-Anhalt/Mecklenburg-Vorpommern",
+      "id": 2620
+    },
+    {
+      "tgid": 26200,
+      "callsign": "TAC1",
+      "id": 26200
+    },
+    {
+      "tgid": 2621,
+      "callsign": "Berlin/Brandenburg",
+      "id": 2621
+    },
+    {
+      "tgid": 2622,
+      "callsign": " Hamburg/Schleswig-Holstein",
+      "id": 2622
+    },
+    {
+      "tgid": 2623,
+      "callsign": "Niedersachsen/Bremen",
+      "id": 2623
+    },
+    {
+      "tgid": 2624,
+      "callsign": "Nordrhein-Westfalen",
+      "id": 2624
+    },
+    {
+      "tgid": 2625,
+      "callsign": "Rheinland-Pfalz/Saarland",
+      "id": 2625
+    },
+    {
+      "tgid": 26257,
+      "callsign": "DE-Kusel",
+      "id": 26257
+    },
+    {
+      "tgid": 2626,
+      "callsign": "Hessen",
+      "id": 2626
+    },
+    {
+      "tgid": 2627,
+      "callsign": "Baden-Wuerttemberg",
+      "id": 2627
+    },
+    {
+      "tgid": 2628,
+      "callsign": "Bayern",
+      "id": 2628
+    },
+    {
+      "tgid": 26281,
+      "callsign": "DE-RAMSES",
+      "id": 26281
+    },
+    {
+      "tgid": 26284,
+      "callsign": "DE-Franken",
+      "id": 26284
+    },
+    {
+      "tgid": 26285,
+      "callsign": "DE-Jura",
+      "id": 26285
+    },
+    {
+      "tgid": 2629,
+      "callsign": "Sachsen/Thueringen",
+      "id": 2629
+    },
+    {
+      "tgid": 26290,
+      "callsign": "DE-Neumarkt",
+      "id": 26290
+    },
+    {
+      "tgid": 26299,
+      "callsign": "TAC2",
+      "id": 26299
+    },
+    {
+      "tgid": 266,
+      "callsign": "Gibraltar ",
+      "id": 266
+    },
+    {
+      "tgid": 268,
+      "callsign": "Portugal Nacional",
+      "id": 268
+    },
+    {
+      "tgid": 2681,
+      "callsign": "Portugal Norte",
+      "id": 2681
+    },
+    {
+      "tgid": 26811,
+      "callsign": "EchoLink • LUSOFONA",
+      "id": 26811
+    },
+    {
+      "tgid": 26812,
+      "callsign": "EchoLink • LUSO-USA",
+      "id": 26812
+    },
+    {
+      "tgid": 26810,
+      "callsign": "TETRA Portugal",
+      "id": 26810
+    },
+    {
+      "tgid": 2682,
+      "callsign": "Portugal Centro",
+      "id": 2682
+    },
+    {
+      "tgid": 2683,
+      "callsign": "Portugal Capital",
+      "id": 2683
+    },
+    {
+      "tgid": 2684,
+      "callsign": "Portugal Alentejo",
+      "id": 2684
+    },
+    {
+      "tgid": 2685,
+      "callsign": "Portugal Algarve",
+      "id": 2685
+    },
+    {
+      "tgid": 2686,
+      "callsign": "Azores Is.",
+      "id": 2686
+    },
+    {
+      "tgid": 2687,
+      "callsign": "Madeira Is.",
+      "id": 2687
+    },
+    {
+      "tgid": 2688,
+      "callsign": "Echolink • ETRLINK",
+      "id": 2688
+    },
+    {
+      "tgid": 2689,
+      "callsign": "AllStarLink Azores",
+      "id": 2689
+    },
+    {
+      "tgid": 270,
+      "callsign": "Luxembourg ",
+      "id": 270
+    },
+    {
+      "tgid": 272,
+      "callsign": "Ireland",
+      "id": 272
+    },
+    {
+      "tgid": 274,
+      "callsign": "Iceland ",
+      "id": 274
+    },
+    {
+      "tgid": 276,
+      "callsign": "Albania ",
+      "id": 276
+    },
+    {
+      "tgid": 278,
+      "callsign": "Malta ",
+      "id": 278
+    },
+    {
+      "tgid": 280,
+      "callsign": "Cyprus",
+      "id": 280
+    },
+    {
+      "tgid": 282,
+      "callsign": "Georgia ",
+      "id": 282
+    },
+    {
+      "tgid": 283,
+      "callsign": "Armenia ",
+      "id": 283
+    },
+    {
+      "tgid": 284,
+      "callsign": "Bulgaria",
+      "id": 284
+    },
+    {
+      "tgid": 284112,
+      "callsign": "Emergency Service",
+      "id": 284112
+    },
+    {
+      "tgid": 2842,
+      "callsign": "Sofia Region",
+      "id": 2842
+    },
+    {
+      "tgid": 2843,
+      "callsign": "Plovdiv Region",
+      "id": 2843
+    },
+    {
+      "tgid": 28430,
+      "callsign": "Southwest Bulgaria",
+      "id": 28430
+    },
+    {
+      "tgid": 28499,
+      "callsign": "DMR AI",
+      "id": 28499
+    },
+    {
+      "tgid": 286,
+      "callsign": "Turkey ",
+      "id": 286
+    },
+    {
+      "tgid": 288,
+      "callsign": "Faroe Islands ",
+      "id": 288
+    },
+    {
+      "tgid": 292,
+      "callsign": "San Marino ",
+      "id": 292
+    },
+    {
+      "tgid": 293,
+      "callsign": "Slovenia ",
+      "id": 293
+    },
+    {
+      "tgid": 294,
+      "callsign": "Macedonia",
+      "id": 294
+    },
+    {
+      "tgid": 2949,
+      "callsign": "Strumica",
+      "id": 2949
+    },
+    {
+      "tgid": 295,
+      "callsign": "Liechtenstein ",
+      "id": 295
+    },
+    {
+      "tgid": 297,
+      "callsign": "Montenegro ",
+      "id": 297
+    },
+    {
+      "tgid": 302,
+      "callsign": "Canada",
+      "id": 302
+    },
+    {
+      "tgid": 3020,
+      "callsign": "Newfoundland & Labrador & P.E.I.",
+      "id": 3020
+    },
+    {
+      "tgid": 3021,
+      "callsign": "Nova Scotia",
+      "id": 3021
+    },
+    {
+      "tgid": 3022,
+      "callsign": "Quebec ",
+      "id": 3022
+    },
+    {
+      "tgid": 3023,
+      "callsign": "Ontario",
+      "id": 3023
+    },
+    {
+      "tgid": 3024,
+      "callsign": "Manitoba",
+      "id": 3024
+    },
+    {
+      "tgid": 3025,
+      "callsign": "Saskatchewan",
+      "id": 3025
+    },
+    {
+      "tgid": 3026,
+      "callsign": "Alberta",
+      "id": 3026
+    },
+    {
+      "tgid": 3027,
+      "callsign": "British Columbia",
+      "id": 3027
+    },
+    {
+      "tgid": 3028,
+      "callsign": "Nunavut Yukon & NWT",
+      "id": 3028
+    },
+    {
+      "tgid": 3029,
+      "callsign": "New Brunswick",
+      "id": 3029
+    },
+    {
+      "tgid": 310,
+      "callsign": "United States of America ",
+      "id": 310
+    },
+    {
+      "tgid": 3100,
+      "callsign": "USA Nationwide",
+      "id": 3100
+    },
+    {
+      "tgid": 31001,
+      "callsign": "N. A. TAC 1",
+      "id": 31001
+    },
+    {
+      "tgid": 31002,
+      "callsign": "N. A. TAC 2",
+      "id": 31002
+    },
+    {
+      "tgid": 31003,
+      "callsign": "N. A. TAC 3",
+      "id": 31003
+    },
+    {
+      "tgid": 31004,
+      "callsign": "N. A. TAC 4",
+      "id": 31004
+    },
+    {
+      "tgid": 31005,
+      "callsign": "N. A. TAC 5",
+      "id": 31005
+    },
+    {
+      "tgid": 31006,
+      "callsign": "N. A. TAC 6",
+      "id": 31006
+    },
+    {
+      "tgid": 31007,
+      "callsign": "N. A. TAC 7",
+      "id": 31007
+    },
+    {
+      "tgid": 31008,
+      "callsign": "N. A. TAC 8",
+      "id": 31008
+    },
+    {
+      "tgid": 31009,
+      "callsign": "N. A. TAC 9",
+      "id": 31009
+    },
+    {
+      "tgid": 3101,
+      "callsign": "Alabama",
+      "id": 3101
+    },
+    {
+      "tgid": 3102,
+      "callsign": "Alaska",
+      "id": 3102
+    },
+    {
+      "tgid": 3104,
+      "callsign": "Arizona",
+      "id": 3104
+    },
+    {
+      "tgid": 3105,
+      "callsign": "Arkansas",
+      "id": 3105
+    },
+    {
+      "tgid": 3106,
+      "callsign": "California",
+      "id": 3106
+    },
+    {
+      "tgid": 3108,
+      "callsign": "Colorado",
+      "id": 3108
+    },
+    {
+      "tgid": 3109,
+      "callsign": "Connecticut",
+      "id": 3109
+    },
+    {
+      "tgid": 3109050,
+      "callsign": "East Coast Reflector - AllStar Bridge",
+      "id": 3109050
+    },
+    {
+      "tgid": 311,
+      "callsign": "Guam ",
+      "id": 311
+    },
+    {
+      "tgid": 3110,
+      "callsign": "Delaware",
+      "id": 3110
+    },
+    {
+      "tgid": 3111,
+      "callsign": "District of Columbia",
+      "id": 3111
+    },
+    {
+      "tgid": 3112,
+      "callsign": "Florida",
+      "id": 3112
+    },
+    {
+      "tgid": 3113,
+      "callsign": "Georgia",
+      "id": 3113
+    },
+    {
+      "tgid": 3115,
+      "callsign": "Hawai",
+      "id": 3115
+    },
+    {
+      "tgid": 3116,
+      "callsign": "Idaho",
+      "id": 3116
+    },
+    {
+      "tgid": 3117,
+      "callsign": "Illinois",
+      "id": 3117
+    },
+    {
+      "tgid": 3118,
+      "callsign": "Indiana",
+      "id": 3118
+    },
+    {
+      "tgid": 3119,
+      "callsign": "Iowa",
+      "id": 3119
+    },
+    {
+      "tgid": 3120,
+      "callsign": "Kansas",
+      "id": 3120
+    },
+    {
+      "tgid": 3121,
+      "callsign": "Kentucky",
+      "id": 3121
+    },
+    {
+      "tgid": 3122,
+      "callsign": "Louisiana",
+      "id": 3122
+    },
+    {
+      "tgid": 3123,
+      "callsign": "Maine",
+      "id": 3123
+    },
+    {
+      "tgid": 3124,
+      "callsign": "Maryland",
+      "id": 3124
+    },
+    {
+      "tgid": 3125,
+      "callsign": "Massachusetts",
+      "id": 3125
+    },
+    {
+      "tgid": 3126,
+      "callsign": "Michigan",
+      "id": 3126
+    },
+    {
+      "tgid": 3127,
+      "callsign": "Minnesota",
+      "id": 3127
+    },
+    {
+      "tgid": 3128,
+      "callsign": "Mississippi",
+      "id": 3128
+    },
+    {
+      "tgid": 3129,
+      "callsign": "Missouri",
+      "id": 3129
+    },
+    {
+      "tgid": 3130,
+      "callsign": "Montana",
+      "id": 3130
+    },
+    {
+      "tgid": 3131,
+      "callsign": "Nebraska",
+      "id": 3131
+    },
+    {
+      "tgid": 3132,
+      "callsign": "Nevada",
+      "id": 3132
+    },
+    {
+      "tgid": 31322,
+      "callsign": "Las Vegas, NV",
+      "id": 31322
+    },
+    {
+      "tgid": 31323,
+      "callsign": "Reno, NV",
+      "id": 31323
+    },
+    {
+      "tgid": 31324,
+      "callsign": "Henderson, NV",
+      "id": 31324
+    },
+    {
+      "tgid": 313221,
+      "callsign": "Allstar 27863 ARN / ARRL Weekly News",
+      "id": 313221
+    },
+    {
+      "tgid": 3133,
+      "callsign": "New Hampshire",
+      "id": 3133
+    },
+    {
+      "tgid": 3134,
+      "callsign": "New Jersey",
+      "id": 3134
+    },
+    {
+      "tgid": 3135,
+      "callsign": "New Mexico",
+      "id": 3135
+    },
+    {
+      "tgid": 3136,
+      "callsign": "New York",
+      "id": 3136
+    },
+    {
+      "tgid": 3137,
+      "callsign": "North Carolina",
+      "id": 3137
+    },
+    {
+      "tgid": 3138,
+      "callsign": "North Dakota",
+      "id": 3138
+    },
+    {
+      "tgid": 3139,
+      "callsign": "Ohio Statewide - XLX265A, AllStar 28247",
+      "id": 3139
+    },
+    {
+      "tgid": 31394,
+      "callsign": "Southwest Ohio - XLX265C, YSF31394, AllStar 27539",
+      "id": 31394
+    },
+    {
+      "tgid": 31397,
+      "callsign": "Southwest Ohio Weather - XLX265W, AllStar 27544",
+      "id": 31397
+    },
+    {
+      "tgid": 3140,
+      "callsign": "Oklahoma",
+      "id": 3140
+    },
+    {
+      "tgid": 3141,
+      "callsign": "Oregon",
+      "id": 3141
+    },
+    {
+      "tgid": 3142,
+      "callsign": "Pennsylvania",
+      "id": 3142
+    },
+    {
+      "tgid": 31420,
+      "callsign": "Pennsylvania First Responders - AllStar 433441",
+      "id": 31420
+    },
+    {
+      "tgid": 3143,
+      "callsign": "Puerto Rico",
+      "id": 3143
+    },
+    {
+      "tgid": 3144,
+      "callsign": "Rhode Island",
+      "id": 3144
+    },
+    {
+      "tgid": 3145,
+      "callsign": "South Carolina",
+      "id": 3145
+    },
+    {
+      "tgid": 31452,
+      "callsign": "N1RCW multi mode link",
+      "id": 31452
+    },
+    {
+      "tgid": 3146,
+      "callsign": "South Dakota",
+      "id": 3146
+    },
+    {
+      "tgid": 3147,
+      "callsign": "Tennessee",
+      "id": 3147
+    },
+    {
+      "tgid": 3148,
+      "callsign": "Texas",
+      "id": 3148
+    },
+    {
+      "tgid": 3149,
+      "callsign": "Utah",
+      "id": 3149
+    },
+    {
+      "tgid": 3150,
+      "callsign": "Vermont",
+      "id": 3150
+    },
+    {
+      "tgid": 3151,
+      "callsign": "Virginia",
+      "id": 3151
+    },
+    {
+      "tgid": 3152,
+      "callsign": "Virgin Islands",
+      "id": 3152
+    },
+    {
+      "tgid": 3153,
+      "callsign": "Washington",
+      "id": 3153
+    },
+    {
+      "tgid": 3154,
+      "callsign": "West Virginia",
+      "id": 3154
+    },
+    {
+      "tgid": 3155,
+      "callsign": "Wisconsin",
+      "id": 3155
+    },
+    {
+      "tgid": 3156,
+      "callsign": "Wyoming",
+      "id": 3156
+    },
+    {
+      "tgid": 316487,
+      "callsign": "US Rag Chew Unlimited",
+      "id": 316487
+    },
+    {
+      "tgid": 316501,
+      "callsign": "Worldwide Network",
+      "id": 316501
+    },
+    {
+      "tgid": 3167,
+      "callsign": "ADN Systems User Chat - English - AllStar 41823",
+      "id": 3167
+    },
+    {
+      "tgid": 330,
+      "callsign": "Puerto Rico",
+      "id": 330
+    },
+    {
+      "tgid": 332,
+      "callsign": "United States Virgin Islands ",
+      "id": 332
+    },
+    {
+      "tgid": 334,
+      "callsign": "Mexico National",
+      "id": 334
+    },
+    {
+      "tgid": 3340,
+      "callsign": "Cross Connect",
+      "id": 3340
+    },
+    {
+      "tgid": 3341,
+      "callsign": "XE1 Zone",
+      "id": 3341
+    },
+    {
+      "tgid": 3342,
+      "callsign": "XE2 Zone",
+      "id": 3342
+    },
+    {
+      "tgid": 33420,
+      "callsign": "Durango Elite-Group",
+      "id": 33420
+    },
+    {
+      "tgid": 3343,
+      "callsign": "XE3 Zone",
+      "id": 3343
+    },
+    {
+      "tgid": 33455,
+      "callsign": "Experimentation",
+      "id": 33455
+    },
+    {
+      "tgid": 338,
+      "callsign": "Jamaica ",
+      "id": 338
+    },
+    {
+      "tgid": 342,
+      "callsign": "Barbados ",
+      "id": 342
+    },
+    {
+      "tgid": 344,
+      "callsign": "Antigua and Barbuda ",
+      "id": 344
+    },
+    {
+      "tgid": 346,
+      "callsign": "Cayman Islands",
+      "id": 346
+    },
+    {
+      "tgid": 348,
+      "callsign": "British Virgin Islands",
+      "id": 348
+    },
+    {
+      "tgid": 350,
+      "callsign": "Bermuda ",
+      "id": 350
+    },
+    {
+      "tgid": 352,
+      "callsign": "Grenada ",
+      "id": 352
+    },
+    {
+      "tgid": 354,
+      "callsign": "Montserrat",
+      "id": 354
+    },
+    {
+      "tgid": 356,
+      "callsign": "Saint Kitts and Nevis ",
+      "id": 356
+    },
+    {
+      "tgid": 358,
+      "callsign": "Saint Lucia ",
+      "id": 358
+    },
+    {
+      "tgid": 360,
+      "callsign": "Saint Vincent and the Grenadines ",
+      "id": 360
+    },
+    {
+      "tgid": 363,
+      "callsign": "Aruba ",
+      "id": 363
+    },
+    {
+      "tgid": 364,
+      "callsign": "Bahamas ",
+      "id": 364
+    },
+    {
+      "tgid": 365,
+      "callsign": "Anguilla ",
+      "id": 365
+    },
+    {
+      "tgid": 366,
+      "callsign": "Dominica ",
+      "id": 366
+    },
+    {
+      "tgid": 368,
+      "callsign": "Cuba ",
+      "id": 368
+    },
+    {
+      "tgid": 370,
+      "callsign": "Dominican Republic National",
+      "id": 370
+    },
+    {
+      "tgid": 3700,
+      "callsign": "El Kiosko",
+      "id": 3700
+    },
+    {
+      "tgid": 3701,
+      "callsign": "DR Zone 1",
+      "id": 3701
+    },
+    {
+      "tgid": 3702,
+      "callsign": "DR Zone 2",
+      "id": 3702
+    },
+    {
+      "tgid": 37022,
+      "callsign": "DR Net",
+      "id": 37022
+    },
+    {
+      "tgid": 3703,
+      "callsign": "DR Zone 3",
+      "id": 3703
+    },
+    {
+      "tgid": 37030,
+      "callsign": "Skynet",
+      "id": 37030
+    },
+    {
+      "tgid": 3704,
+      "callsign": "DR Zone 4",
+      "id": 3704
+    },
+    {
+      "tgid": 37040,
+      "callsign": "DR Multiprotocolo",
+      "id": 37040
+    },
+    {
+      "tgid": 3705,
+      "callsign": "DR Zone 5",
+      "id": 3705
+    },
+    {
+      "tgid": 37050,
+      "callsign": "DR Tech",
+      "id": 37050
+    },
+    {
+      "tgid": 3706,
+      "callsign": "DR Zone 6",
+      "id": 3706
+    },
+    {
+      "tgid": 3707,
+      "callsign": "DR Zone 7",
+      "id": 3707
+    },
+    {
+      "tgid": 3708,
+      "callsign": "DR Zone 8",
+      "id": 3708
+    },
+    {
+      "tgid": 372,
+      "callsign": "Haiti ",
+      "id": 372
+    },
+    {
+      "tgid": 374,
+      "callsign": "Trinidad and Tobago ",
+      "id": 374
+    },
+    {
+      "tgid": 376,
+      "callsign": "Turks and Caicos Islands ",
+      "id": 376
+    },
+    {
+      "tgid": 400,
+      "callsign": "Azerbaijan ",
+      "id": 400
+    },
+    {
+      "tgid": 401,
+      "callsign": "Kazakhstan ",
+      "id": 401
+    },
+    {
+      "tgid": 402,
+      "callsign": "Bhutan ",
+      "id": 402
+    },
+    {
+      "tgid": 404,
+      "callsign": "India ",
+      "id": 404
+    },
+    {
+      "tgid": 410,
+      "callsign": "Pakistan",
+      "id": 410
+    },
+    {
+      "tgid": 412,
+      "callsign": "Afghanistan ",
+      "id": 412
+    },
+    {
+      "tgid": 413,
+      "callsign": "Sri Lanka ",
+      "id": 413
+    },
+    {
+      "tgid": 414,
+      "callsign": "Myanmar ",
+      "id": 414
+    },
+    {
+      "tgid": 415,
+      "callsign": "Lebanon ",
+      "id": 415
+    },
+    {
+      "tgid": 416,
+      "callsign": "Jordan ",
+      "id": 416
+    },
+    {
+      "tgid": 417,
+      "callsign": "Syria ",
+      "id": 417
+    },
+    {
+      "tgid": 418,
+      "callsign": "Iraq ",
+      "id": 418
+    },
+    {
+      "tgid": 419,
+      "callsign": "Kuwait ",
+      "id": 419
+    },
+    {
+      "tgid": 420,
+      "callsign": "Saudi Arabia ",
+      "id": 420
+    },
+    {
+      "tgid": 422,
+      "callsign": "Oman ",
+      "id": 422
+    },
+    {
+      "tgid": 424,
+      "callsign": "United Arab Emirates ",
+      "id": 424
+    },
+    {
+      "tgid": 425,
+      "callsign": "Israel ",
+      "id": 425
+    },
+    {
+      "tgid": 4251,
+      "callsign": "Palestine",
+      "id": 4251
+    },
+    {
+      "tgid": 426,
+      "callsign": "Bahrain ",
+      "id": 426
+    },
+    {
+      "tgid": 427,
+      "callsign": "Qatar ",
+      "id": 427
+    },
+    {
+      "tgid": 428,
+      "callsign": "Mongolia ",
+      "id": 428
+    },
+    {
+      "tgid": 429,
+      "callsign": "Nepal ",
+      "id": 429
+    },
+    {
+      "tgid": 432,
+      "callsign": "Iran ",
+      "id": 432
+    },
+    {
+      "tgid": 434,
+      "callsign": "Uzbekistan ",
+      "id": 434
+    },
+    {
+      "tgid": 436,
+      "callsign": "Tajikistan ",
+      "id": 436
+    },
+    {
+      "tgid": 437,
+      "callsign": "Kyrgyzstan ",
+      "id": 437
+    },
+    {
+      "tgid": 438,
+      "callsign": "Turkmenistan ",
+      "id": 438
+    },
+    {
+      "tgid": 440,
+      "callsign": "Japan",
+      "id": 440
+    },
+    {
+      "tgid": 450,
+      "callsign": "South Korea",
+      "id": 450
+    },
+    {
+      "tgid": 452,
+      "callsign": "Vietnam ",
+      "id": 452
+    },
+    {
+      "tgid": 454,
+      "callsign": "Hong Kong",
+      "id": 454
+    },
+    {
+      "tgid": 455,
+      "callsign": "Macau",
+      "id": 455
+    },
+    {
+      "tgid": 456,
+      "callsign": "Cambodia ",
+      "id": 456
+    },
+    {
+      "tgid": 457,
+      "callsign": "Laos ",
+      "id": 457
+    },
+    {
+      "tgid": 460,
+      "callsign": "China ",
+      "id": 460
+    },
+    {
+      "tgid": 466,
+      "callsign": "Taiwan ",
+      "id": 466
+    },
+    {
+      "tgid": 467,
+      "callsign": "Korea North ",
+      "id": 467
+    },
+    {
+      "tgid": 470,
+      "callsign": "Bangladesh ",
+      "id": 470
+    },
+    {
+      "tgid": 472,
+      "callsign": "Maldives ",
+      "id": 472
+    },
+    {
+      "tgid": 502,
+      "callsign": "Malaysia ",
+      "id": 502
+    },
+    {
+      "tgid": 505,
+      "callsign": "Australia - National Calling",
+      "id": 505
+    },
+    {
+      "tgid": 5050,
+      "callsign": "Australia - Antarctic",
+      "id": 5050
+    },
+    {
+      "tgid": 5051,
+      "callsign": "Australia - ACT",
+      "id": 5051
+    },
+    {
+      "tgid": 5052,
+      "callsign": "Australia - NSW",
+      "id": 5052
+    },
+    {
+      "tgid": 5053,
+      "callsign": "Australia - VIC",
+      "id": 5053
+    },
+    {
+      "tgid": 5054,
+      "callsign": "Australia - QLD",
+      "id": 5054
+    },
+    {
+      "tgid": 5055,
+      "callsign": "Australia - SA",
+      "id": 5055
+    },
+    {
+      "tgid": 5056,
+      "callsign": "Australia - WA",
+      "id": 5056
+    },
+    {
+      "tgid": 5057,
+      "callsign": "Australia - TAS",
+      "id": 5057
+    },
+    {
+      "tgid": 5058,
+      "callsign": "Australia - NT",
+      "id": 5058
+    },
+    {
+      "tgid": 5059,
+      "callsign": "Australian - Ext Territories",
+      "id": 5059
+    },
+    {
+      "tgid": 510,
+      "callsign": "Indonesia ",
+      "id": 510
+    },
+    {
+      "tgid": 514,
+      "callsign": "East Timor ",
+      "id": 514
+    },
+    {
+      "tgid": 515,
+      "callsign": "Philippines ",
+      "id": 515
+    },
+    {
+      "tgid": 520,
+      "callsign": "Thailand",
+      "id": 520
+    },
+    {
+      "tgid": 5201,
+      "callsign": "Reserved",
+      "id": 5201
+    },
+    {
+      "tgid": 52010,
+      "callsign": "Thailand Regian 1",
+      "id": 52010
+    },
+    {
+      "tgid": 5202,
+      "callsign": "CHAT 2",
+      "id": 5202
+    },
+    {
+      "tgid": 52020,
+      "callsign": "Thailand Regian 2",
+      "id": 52020
+    },
+    {
+      "tgid": 5203,
+      "callsign": "CHAT 3[TG 5203]",
+      "id": 5203
+    },
+    {
+      "tgid": 52030,
+      "callsign": "Thailand Regian 3",
+      "id": 52030
+    },
+    {
+      "tgid": 5204,
+      "callsign": "CHAT4[TG5204]",
+      "id": 5204
+    },
+    {
+      "tgid": 52040,
+      "callsign": "Thailand Regian 4",
+      "id": 52040
+    },
+    {
+      "tgid": 5205,
+      "callsign": "ASL TG-550911 [XLX822A]",
+      "id": 5205
+    },
+    {
+      "tgid": 52050,
+      "callsign": "Thailand Regian 5",
+      "id": 52050
+    },
+    {
+      "tgid": 52060,
+      "callsign": "Thailand Regian 6",
+      "id": 52060
+    },
+    {
+      "tgid": 52070,
+      "callsign": "Thailand Regian 7",
+      "id": 52070
+    },
+    {
+      "tgid": 52080,
+      "callsign": "Thailand Regian 8",
+      "id": 52080
+    },
+    {
+      "tgid": 52090,
+      "callsign": "Thailand Regian 9",
+      "id": 52090
+    },
+    {
+      "tgid": 525,
+      "callsign": "Singapore ",
+      "id": 525
+    },
+    {
+      "tgid": 528,
+      "callsign": "Brunei ",
+      "id": 528
+    },
+    {
+      "tgid": 530,
+      "callsign": "New Zealand National",
+      "id": 530
+    },
+    {
+      "tgid": 5301,
+      "callsign": "ZL 1 Region",
+      "id": 5301
+    },
+    {
+      "tgid": 5302,
+      "callsign": "ZL 2 Regional",
+      "id": 5302
+    },
+    {
+      "tgid": 5303,
+      "callsign": "ZL 3 Region",
+      "id": 5303
+    },
+    {
+      "tgid": 5304,
+      "callsign": "ZL 4 Region",
+      "id": 5304
+    },
+    {
+      "tgid": 53050,
+      "callsign": "XLX751",
+      "id": 53050
+    },
+    {
+      "tgid": 53060,
+      "callsign": "TARC - Taupo Amateur Radio Club",
+      "id": 53060
+    },
+    {
+      "tgid": 53099,
+      "callsign": "Digital Radio Group NZ",
+      "id": 53099
+    },
+    {
+      "tgid": 536,
+      "callsign": "Nauru ",
+      "id": 536
+    },
+    {
+      "tgid": 537,
+      "callsign": "Papua New Guinea ",
+      "id": 537
+    },
+    {
+      "tgid": 539,
+      "callsign": "Tonga ",
+      "id": 539
+    },
+    {
+      "tgid": 540,
+      "callsign": "Solomon Islands ",
+      "id": 540
+    },
+    {
+      "tgid": 541,
+      "callsign": "Vanuatu ",
+      "id": 541
+    },
+    {
+      "tgid": 542,
+      "callsign": "Fiji ",
+      "id": 542
+    },
+    {
+      "tgid": 544,
+      "callsign": "American Samoa ",
+      "id": 544
+    },
+    {
+      "tgid": 545,
+      "callsign": "Kiribati ",
+      "id": 545
+    },
+    {
+      "tgid": 548,
+      "callsign": "Cook Islands",
+      "id": 548
+    },
+    {
+      "tgid": 549,
+      "callsign": "Samoa ",
+      "id": 549
+    },
+    {
+      "tgid": 550,
+      "callsign": "Micronesia Federated ",
+      "id": 550
+    },
+    {
+      "tgid": 551,
+      "callsign": "Marshall Islands ",
+      "id": 551
+    },
+    {
+      "tgid": 552,
+      "callsign": "Palau ",
+      "id": 552
+    },
+    {
+      "tgid": 553,
+      "callsign": "Tuvalu ",
+      "id": 553
+    },
+    {
+      "tgid": 602,
+      "callsign": "Egypt ",
+      "id": 602
+    },
+    {
+      "tgid": 603,
+      "callsign": "Algeria ",
+      "id": 603
+    },
+    {
+      "tgid": 604,
+      "callsign": "Morocco-National",
+      "id": 604
+    },
+    {
+      "tgid": 60401,
+      "callsign": "DMR-MAROC",
+      "id": 60401
+    },
+    {
+      "tgid": 6041,
+      "callsign": "Cross Mode DMR = ANALOGUE",
+      "id": 6041
+    },
+    {
+      "tgid": 60410,
+      "callsign": "EL Jadida",
+      "id": 60410
+    },
+    {
+      "tgid": 604112,
+      "callsign": "EmComm Morocco",
+      "id": 604112
+    },
+    {
+      "tgid": 605,
+      "callsign": "Tunisia ",
+      "id": 605
+    },
+    {
+      "tgid": 606,
+      "callsign": "Libya ",
+      "id": 606
+    },
+    {
+      "tgid": 607,
+      "callsign": "Gambia ",
+      "id": 607
+    },
+    {
+      "tgid": 608,
+      "callsign": "Senegal ",
+      "id": 608
+    },
+    {
+      "tgid": 609,
+      "callsign": "Mauritania ",
+      "id": 609
+    },
+    {
+      "tgid": 610,
+      "callsign": "Mali ",
+      "id": 610
+    },
+    {
+      "tgid": 611,
+      "callsign": "Guinea ",
+      "id": 611
+    },
+    {
+      "tgid": 613,
+      "callsign": "Burkina Faso ",
+      "id": 613
+    },
+    {
+      "tgid": 614,
+      "callsign": "Niger ",
+      "id": 614
+    },
+    {
+      "tgid": 615,
+      "callsign": "Togo ",
+      "id": 615
+    },
+    {
+      "tgid": 616,
+      "callsign": "Benin ",
+      "id": 616
+    },
+    {
+      "tgid": 617,
+      "callsign": "Mauritius ",
+      "id": 617
+    },
+    {
+      "tgid": 618,
+      "callsign": "Liberia ",
+      "id": 618
+    },
+    {
+      "tgid": 619,
+      "callsign": "Sierra Leone ",
+      "id": 619
+    },
+    {
+      "tgid": 620,
+      "callsign": "Ghana ",
+      "id": 620
+    },
+    {
+      "tgid": 621,
+      "callsign": "Nigeria ",
+      "id": 621
+    },
+    {
+      "tgid": 622,
+      "callsign": "Chad ",
+      "id": 622
+    },
+    {
+      "tgid": 623,
+      "callsign": "Central African Republic ",
+      "id": 623
+    },
+    {
+      "tgid": 624,
+      "callsign": "Cameroon ",
+      "id": 624
+    },
+    {
+      "tgid": 625,
+      "callsign": "Cape Verde ",
+      "id": 625
+    },
+    {
+      "tgid": 626,
+      "callsign": "Sao Tome and Principe ",
+      "id": 626
+    },
+    {
+      "tgid": 627,
+      "callsign": "Equatorial Guinea ",
+      "id": 627
+    },
+    {
+      "tgid": 628,
+      "callsign": "Gabon ",
+      "id": 628
+    },
+    {
+      "tgid": 631,
+      "callsign": "Angola ",
+      "id": 631
+    },
+    {
+      "tgid": 632,
+      "callsign": "Guinea-Bissau ",
+      "id": 632
+    },
+    {
+      "tgid": 633,
+      "callsign": "Seychelles ",
+      "id": 633
+    },
+    {
+      "tgid": 634,
+      "callsign": "Sudan ",
+      "id": 634
+    },
+    {
+      "tgid": 635,
+      "callsign": "Rwanda ",
+      "id": 635
+    },
+    {
+      "tgid": 636,
+      "callsign": "Ethiopia ",
+      "id": 636
+    },
+    {
+      "tgid": 637,
+      "callsign": "Somalia ",
+      "id": 637
+    },
+    {
+      "tgid": 638,
+      "callsign": "Djibouti ",
+      "id": 638
+    },
+    {
+      "tgid": 639,
+      "callsign": "Kenya ",
+      "id": 639
+    },
+    {
+      "tgid": 640,
+      "callsign": "Tanzania ",
+      "id": 640
+    },
+    {
+      "tgid": 641,
+      "callsign": "Uganda ",
+      "id": 641
+    },
+    {
+      "tgid": 642,
+      "callsign": "Burundi ",
+      "id": 642
+    },
+    {
+      "tgid": 643,
+      "callsign": "Mozambique ",
+      "id": 643
+    },
+    {
+      "tgid": 646,
+      "callsign": "Madagascar ",
+      "id": 646
+    },
+    {
+      "tgid": 647,
+      "callsign": "Réunion island",
+      "id": 647
+    },
+    {
+      "tgid": 649,
+      "callsign": "Namibia ",
+      "id": 649
+    },
+    {
+      "tgid": 650,
+      "callsign": "Malawi ",
+      "id": 650
+    },
+    {
+      "tgid": 651,
+      "callsign": "Lesotho ",
+      "id": 651
+    },
+    {
+      "tgid": 652,
+      "callsign": "Botswana ",
+      "id": 652
+    },
+    {
+      "tgid": 653,
+      "callsign": "Eswatini",
+      "id": 653
+    },
+    {
+      "tgid": 654,
+      "callsign": "Comoros ",
+      "id": 654
+    },
+    {
+      "tgid": 655,
+      "callsign": "South Africa ",
+      "id": 655
+    },
+    {
+      "tgid": 657,
+      "callsign": "Eritrea ",
+      "id": 657
+    },
+    {
+      "tgid": 702,
+      "callsign": "Belize",
+      "id": 702
+    },
+    {
+      "tgid": 704,
+      "callsign": "Guatemala",
+      "id": 704
+    },
+    {
+      "tgid": 706,
+      "callsign": "El Salvador",
+      "id": 706
+    },
+    {
+      "tgid": 70602,
+      "callsign": "Zona YS2",
+      "id": 70602
+    },
+    {
+      "tgid": 70603,
+      "callsign": "Zona YS3",
+      "id": 70603
+    },
+    {
+      "tgid": 70604,
+      "callsign": "Eventos",
+      "id": 70604
+    },
+    {
+      "tgid": 70605,
+      "callsign": "CRAS",
+      "id": 70605
+    },
+    {
+      "tgid": 70601,
+      "callsign": "Zona YS1",
+      "id": 70601
+    },
+    {
+      "tgid": 70600,
+      "callsign": "ESV-Interlink",
+      "id": 70600
+    },
+    {
+      "tgid": 7065,
+      "callsign": "GREMSAL",
+      "id": 7065
+    },
+    {
+      "tgid": 706911,
+      "callsign": "ESV-Emergencias",
+      "id": 706911
+    },
+    {
+      "tgid": 708,
+      "callsign": "Honduras ",
+      "id": 708
+    },
+    {
+      "tgid": 7085,
+      "callsign": "GREMHR",
+      "id": 7085
+    },
+    {
+      "tgid": 710,
+      "callsign": "YN-Nacional",
+      "id": 710
+    },
+    {
+      "tgid": 7102,
+      "callsign": "Zona YN2",
+      "id": 7102
+    },
+    {
+      "tgid": 7103,
+      "callsign": "Zona YN3",
+      "id": 7103
+    },
+    {
+      "tgid": 7104,
+      "callsign": "Zona YN4",
+      "id": 7104
+    },
+    {
+      "tgid": 7105,
+      "callsign": "XLX 611C-YSF52811",
+      "id": 7105
+    },
+    {
+      "tgid": 710911,
+      "callsign": "Emergencias ",
+      "id": 710911
+    },
+    {
+      "tgid": 712,
+      "callsign": "Costa Rica",
+      "id": 712
+    },
+    {
+      "tgid": 7125,
+      "callsign": "GREMCRC",
+      "id": 7125
+    },
+    {
+      "tgid": 714,
+      "callsign": "Panama",
+      "id": 714
+    },
+    {
+      "tgid": 71410,
+      "callsign": "Trx West",
+      "id": 71410
+    },
+    {
+      "tgid": 7144,
+      "callsign": "Chiriqui Link Panama",
+      "id": 7144
+    },
+    {
+      "tgid": 71442,
+      "callsign": "test",
+      "id": 71442
+    },
+    {
+      "tgid": 7145,
+      "callsign": "GREMPA",
+      "id": 7145
+    },
+    {
+      "tgid": 7146,
+      "callsign": "UPRA",
+      "id": 7146
+    },
+    {
+      "tgid": 7148,
+      "callsign": "Radio Club Panama",
+      "id": 7148
+    },
+    {
+      "tgid": 7149,
+      "callsign": "Panamá Scouts",
+      "id": 7149
+    },
+    {
+      "tgid": 714911,
+      "callsign": "Emergencia Panama",
+      "id": 714911
+    },
+    {
+      "tgid": 716,
+      "callsign": "Peru",
+      "id": 716
+    },
+    {
+      "tgid": 722,
+      "callsign": "Argentina",
+      "id": 722
+    },
+    {
+      "tgid": 7221,
+      "callsign": "Argentina Digital Voice",
+      "id": 7221
+    },
+    {
+      "tgid": 72225,
+      "callsign": "Región NOA",
+      "id": 72225
+    },
+    {
+      "tgid": 72226,
+      "callsign": "Región NEA",
+      "id": 72226
+    },
+    {
+      "tgid": 72227,
+      "callsign": "Región Cuyana",
+      "id": 72227
+    },
+    {
+      "tgid": 72228,
+      "callsign": "Región Centro",
+      "id": 72228
+    },
+    {
+      "tgid": 72229,
+      "callsign": "Región CABA",
+      "id": 72229
+    },
+    {
+      "tgid": 7223,
+      "callsign": "Argentina Network",
+      "id": 7223
+    },
+    {
+      "tgid": 72230,
+      "callsign": "Región Baires",
+      "id": 72230
+    },
+    {
+      "tgid": 72231,
+      "callsign": "Región Patagonica",
+      "id": 72231
+    },
+    {
+      "tgid": 722911,
+      "callsign": "Emergencias",
+      "id": 722911
+    },
+    {
+      "tgid": 724,
+      "callsign": "Brasil National",
+      "id": 724
+    },
+    {
+      "tgid": 7240,
+      "callsign": "Refletores P25 / NXDN",
+      "id": 7240
+    },
+    {
+      "tgid": 7241,
+      "callsign": "Norte",
+      "id": 7241
+    },
+    {
+      "tgid": 72411,
+      "callsign": "Sao Paulo",
+      "id": 72411
+    },
+    {
+      "tgid": 72416,
+      "callsign": "SuperLink BRASIL",
+      "id": 72416
+    },
+    {
+      "tgid": 7242,
+      "callsign": "Nordeste",
+      "id": 7242
+    },
+    {
+      "tgid": 72421,
+      "callsign": "Rio de Janeiro",
+      "id": 72421
+    },
+    {
+      "tgid": 72427,
+      "callsign": "Espirito Santo",
+      "id": 72427
+    },
+    {
+      "tgid": 72420,
+      "callsign": "Refletor YSF / C4FM",
+      "id": 72420
+    },
+    {
+      "tgid": 7243,
+      "callsign": "Centro-Oeste",
+      "id": 7243
+    },
+    {
+      "tgid": 72431,
+      "callsign": "Minas Gerais",
+      "id": 72431
+    },
+    {
+      "tgid": 7244,
+      "callsign": "Sudeste",
+      "id": 7244
+    },
+    {
+      "tgid": 72441,
+      "callsign": "Parana",
+      "id": 72441
+    },
+    {
+      "tgid": 72448,
+      "callsign": "Santa Catarina",
+      "id": 72448
+    },
+    {
+      "tgid": 7245,
+      "callsign": "Sul",
+      "id": 7245
+    },
+    {
+      "tgid": 72451,
+      "callsign": "Rio Grande do Sul",
+      "id": 72451
+    },
+    {
+      "tgid": 72461,
+      "callsign": "Brasilia",
+      "id": 72461
+    },
+    {
+      "tgid": 72462,
+      "callsign": "Goias",
+      "id": 72462
+    },
+    {
+      "tgid": 72463,
+      "callsign": "Tocantins",
+      "id": 72463
+    },
+    {
+      "tgid": 72465,
+      "callsign": "Mato Grosso",
+      "id": 72465
+    },
+    {
+      "tgid": 72467,
+      "callsign": "Mato Grosso do Sul",
+      "id": 72467
+    },
+    {
+      "tgid": 72468,
+      "callsign": "Acre",
+      "id": 72468
+    },
+    {
+      "tgid": 72469,
+      "callsign": "Rondonia",
+      "id": 72469
+    },
+    {
+      "tgid": 72471,
+      "callsign": "Bahia",
+      "id": 72471
+    },
+    {
+      "tgid": 72479,
+      "callsign": "Sergipe",
+      "id": 72479
+    },
+    {
+      "tgid": 72481,
+      "callsign": "Pernambuco",
+      "id": 72481
+    },
+    {
+      "tgid": 72482,
+      "callsign": "Alagoas",
+      "id": 72482
+    },
+    {
+      "tgid": 72483,
+      "callsign": "Paraiba",
+      "id": 72483
+    },
+    {
+      "tgid": 72484,
+      "callsign": "Rio Grande do Norte",
+      "id": 72484
+    },
+    {
+      "tgid": 72485,
+      "callsign": "Ceara",
+      "id": 72485
+    },
+    {
+      "tgid": 72486,
+      "callsign": "Piaui",
+      "id": 72486
+    },
+    {
+      "tgid": 72491,
+      "callsign": "Para",
+      "id": 72491
+    },
+    {
+      "tgid": 72492,
+      "callsign": "Amazonas",
+      "id": 72492
+    },
+    {
+      "tgid": 72495,
+      "callsign": "Roraima",
+      "id": 72495
+    },
+    {
+      "tgid": 72496,
+      "callsign": "Amapa",
+      "id": 72496
+    },
+    {
+      "tgid": 72498,
+      "callsign": "Maranhao",
+      "id": 72498
+    },
+    {
+      "tgid": 730,
+      "callsign": "CHILE - Nacional",
+      "id": 730
+    },
+    {
+      "tgid": 7300,
+      "callsign": "CE0 Zona0 Chile Insular",
+      "id": 7300
+    },
+    {
+      "tgid": 7301,
+      "callsign": "CE1 Zona1 Arica - Atacama",
+      "id": 7301
+    },
+    {
+      "tgid": 73010,
+      "callsign": "Chile TG73010 WrX81510 YSF51028 CL-Link Network",
+      "id": 73010
+    },
+    {
+      "tgid": 730170,
+      "callsign": "*REDCHILE* Echolink",
+      "id": 730170
+    },
+    {
+      "tgid": 7302,
+      "callsign": "CE2 Zona2 Coquimbo -Valparaiso",
+      "id": 7302
+    },
+    {
+      "tgid": 73021,
+      "callsign": "La Serena-Coquimbo-VHF",
+      "id": 73021
+    },
+    {
+      "tgid": 73022,
+      "callsign": "Valparaiso-VHF",
+      "id": 73022
+    },
+    {
+      "tgid": 73023,
+      "callsign": "Valparaiso-UHF",
+      "id": 73023
+    },
+    {
+      "tgid": 73024,
+      "callsign": "Los Andes-VHF",
+      "id": 73024
+    },
+    {
+      "tgid": 7303,
+      "callsign": "CE3 Zona3 Metropolitana",
+      "id": 7303
+    },
+    {
+      "tgid": 73031,
+      "callsign": "Santiago-UHF",
+      "id": 73031
+    },
+    {
+      "tgid": 7304,
+      "callsign": "CE4 Zona4 O'Higgins - Ñuble",
+      "id": 7304
+    },
+    {
+      "tgid": 73041,
+      "callsign": "Pelluhue-VHF",
+      "id": 73041
+    },
+    {
+      "tgid": 73042,
+      "callsign": "Constitucion-VHF",
+      "id": 73042
+    },
+    {
+      "tgid": 73043,
+      "callsign": "Chillan-VHF",
+      "id": 73043
+    },
+    {
+      "tgid": 73044,
+      "callsign": "Chillan-UHF",
+      "id": 73044
+    },
+    {
+      "tgid": 73045,
+      "callsign": "San Fernando VHF",
+      "id": 73045
+    },
+    {
+      "tgid": 73046,
+      "callsign": "San Fernando UHF",
+      "id": 73046
+    },
+    {
+      "tgid": 7305,
+      "callsign": "CE5 Zona5 BioBio",
+      "id": 7305
+    },
+    {
+      "tgid": 73051,
+      "callsign": "Concepcion-VHF",
+      "id": 73051
+    },
+    {
+      "tgid": 73052,
+      "callsign": "Los Angeles-VHF",
+      "id": 73052
+    },
+    {
+      "tgid": 73053,
+      "callsign": "Los Angeles-UHF",
+      "id": 73053
+    },
+    {
+      "tgid": 73059,
+      "callsign": "Yumbel",
+      "id": 73059
+    },
+    {
+      "tgid": 7306,
+      "callsign": "CE6 Zona6 Araucania y Los Rios",
+      "id": 7306
+    },
+    {
+      "tgid": 73061,
+      "callsign": "Villarrica-Pucon VHF",
+      "id": 73061
+    },
+    {
+      "tgid": 73062,
+      "callsign": "Villarrica-Pucon UHF",
+      "id": 73062
+    },
+    {
+      "tgid": 7307,
+      "callsign": "CE7 Zona7 Los Lagos - Aysen",
+      "id": 7307
+    },
+    {
+      "tgid": 7308,
+      "callsign": "CE8 Zona8 Magallanes",
+      "id": 7308
+    },
+    {
+      "tgid": 73088,
+      "callsign": "CE4YLC Yankee Lima Chile",
+      "id": 73088
+    },
+    {
+      "tgid": 7309,
+      "callsign": "CE9 Zona9 U.Esperanza - Antartica",
+      "id": 7309
+    },
+    {
+      "tgid": 732,
+      "callsign": "Colombia",
+      "id": 732
+    },
+    {
+      "tgid": 734,
+      "callsign": "Venezuela",
+      "id": 734
+    },
+    {
+      "tgid": 73411,
+      "callsign": "Red Digital YV5RVR",
+      "id": 73411
+    },
+    {
+      "tgid": 7341,
+      "callsign": "(YV1) Zona 1",
+      "id": 7341
+    },
+    {
+      "tgid": 7342,
+      "callsign": "(YV3) Zona 2",
+      "id": 7342
+    },
+    {
+      "tgid": 7343,
+      "callsign": "(YV3) Zona 3",
+      "id": 7343
+    },
+    {
+      "tgid": 73440,
+      "callsign": "Net Digital Venezuela / WORLDLINK",
+      "id": 73440
+    },
+    {
+      "tgid": 7344,
+      "callsign": "(YV4) Zona 4",
+      "id": 7344
+    },
+    {
+      "tgid": 73458,
+      "callsign": "ARV SSLC YV5ARV - YSF 86374",
+      "id": 73458
+    },
+    {
+      "tgid": 73451,
+      "callsign": "Net Digital Los Teques YV5AAM",
+      "id": 73451
+    },
+    {
+      "tgid": 7345,
+      "callsign": "(YV5) Zona 5",
+      "id": 7345
+    },
+    {
+      "tgid": 7346,
+      "callsign": "(YV6) Zona 6",
+      "id": 7346
+    },
+    {
+      "tgid": 73461,
+      "callsign": "GRUPO DX RORAIMA",
+      "id": 73461
+    },
+    {
+      "tgid": 7347,
+      "callsign": "(YV7) Zona 7",
+      "id": 7347
+    },
+    {
+      "tgid": 7348,
+      "callsign": "(YV8) Zona 8",
+      "id": 7348
+    },
+    {
+      "tgid": 73481,
+      "callsign": "ARV WARAO DEL DELTA YV8WDD",
+      "id": 73481
+    },
+    {
+      "tgid": 7349,
+      "callsign": "(YV9) Zona 9",
+      "id": 7349
+    },
+    {
+      "tgid": 736,
+      "callsign": "Bolivia ",
+      "id": 736
+    },
+    {
+      "tgid": 738,
+      "callsign": "Guyana ",
+      "id": 738
+    },
+    {
+      "tgid": 740,
+      "callsign": "Ecuador",
+      "id": 740
+    },
+    {
+      "tgid": 74001,
+      "callsign": "CARCHI-IMBABURA-PICHINCHA",
+      "id": 74001
+    },
+    {
+      "tgid": 74002,
+      "callsign": "GUAYAS LOS RIOS",
+      "id": 74002
+    },
+    {
+      "tgid": 74003,
+      "callsign": "LOJA - EL ORO",
+      "id": 74003
+    },
+    {
+      "tgid": 74004,
+      "callsign": "MANBI - ESMERALDAS",
+      "id": 74004
+    },
+    {
+      "tgid": 74005,
+      "callsign": "CHIMBORAZO- CAÑAR-AZUAY",
+      "id": 74005
+    },
+    {
+      "tgid": 74006,
+      "callsign": "COTOPAXI- TUNGURAHUA - BOLIVAR",
+      "id": 74006
+    },
+    {
+      "tgid": 74007,
+      "callsign": "ZAMORA CHINCHIPE- MORONA SANTIAGO-NAPO- PASTAZA- SUCUMBIOS",
+      "id": 74007
+    },
+    {
+      "tgid": 74008,
+      "callsign": "GALAPAGOS",
+      "id": 74008
+    },
+    {
+      "tgid": 7401,
+      "callsign": "Ecuador HC3 Loja",
+      "id": 7401
+    },
+    {
+      "tgid": 7406,
+      "callsign": "RADE ECUADOR",
+      "id": 7406
+    },
+    {
+      "tgid": 740911,
+      "callsign": "EMERGENCIAS",
+      "id": 740911
+    },
+    {
+      "tgid": 744,
+      "callsign": "Paraguay ",
+      "id": 744
+    },
+    {
+      "tgid": 746,
+      "callsign": "Suriname ",
+      "id": 746
+    },
+    {
+      "tgid": 748,
+      "callsign": "Uruguay",
+      "id": 748
+    },
+    {
+      "tgid": 900999,
+      "callsign": "D-APRS",
+      "id": 900999
+    },
+    {
+      "tgid": 91,
+      "callsign": "Worldwide",
+      "id": 91
+    },
+    {
+      "tgid": 937,
+      "callsign": "Francophonie",
+      "id": 937
+    },
+    {
+      "tgid": 970,
+      "callsign": "POTA",
+      "id": 970
+    },
+    {
+      "tgid": 973,
+      "callsign": "SOTA ",
+      "id": 973
+    },
+    {
+      "tgid": 9990,
+      "callsign": "ECHO",
+      "id": 9990
+    }
+  ]
+}
